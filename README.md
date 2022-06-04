@@ -1,6 +1,8 @@
-# basic_scanner
+# project_7_basic_scanner
 
-A new Flutter project.
+import package qrscan,flutter_automation,url_launcher
+
+Picture file name Example Screenshot_Project
 
 ## Getting Started
 
